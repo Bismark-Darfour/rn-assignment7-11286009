@@ -27,9 +27,9 @@ Design and User Experience
 # Conclusion
 This application exemplifies a basic e-commerce functionality using React Native, showcasing efficient data handling, user-friendly design, and robust navigation and storage solutions.
  ## screenshots
- ![Screenshot 1](openFashion/images/screenshot1.jpeg)
- ![Screenshot 2](openFashion/images/screenshot2.jpeg)
- ![Screenshot 3](openFashion/images/screenshot3.jpeg)
+ ![Screenshot 1](https://github.com/Bismark-Darfour/rn-assignment7-11286009/blob/main/openFashion/images/screenshot1.jpeg)
+ ![Screenshot 2](https://github.com/Bismark-Darfour/rn-assignment7-11286009/blob/main/openFashion/images/screenshot2.jpeg?raw=true)
+ ![Screenshot 3](https://github.com/Bismark-Darfour/rn-assignment7-11286009/blob/main/openFashion/images/screenshot3.jpeg?raw=true)
 
 
 
